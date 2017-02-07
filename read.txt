@@ -6,4 +6,8 @@ sdfgksdgf
 
 fdfs
 creating a new branch dev
+<<<<<<< HEAD
 master add line 
+=======
+wrote another line
+>>>>>>> featurel
